@@ -115,3 +115,5 @@ custom_css_path: "/do-not-touch/theme-colors/custom.css"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-cayman
